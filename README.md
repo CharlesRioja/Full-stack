@@ -1,2 +1,1 @@
-# Full-stack
-aprendiendo full stack
+prueba para crear repositorio y clonar a escritorio local
